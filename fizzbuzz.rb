@@ -8,4 +8,5 @@ def fizzbuzz(int)
   elsif condition
      int % 5 == 0
     "Buzz"
+  end
 end
